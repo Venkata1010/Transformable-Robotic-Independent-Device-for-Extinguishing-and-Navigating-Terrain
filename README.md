@@ -16,7 +16,6 @@ TRIDENT is an autonomous “fire‑fighting” robot that navigates a grid, dete
 /hardware/               # Schematics, wiring notes, laser‑cut drawings
 /docs/                   # Report PDFs, figures, and diagrams
 ```
-- Code F1 and Code F2 are reproduced from the report’s Appendix F (final semester versions).
 
 ## Setup & wiring
 1. Assemble the chassis and layered frame; mount sensors front/left/right at the top layer; mount the QTI pair under the front; mount the MPU‑6050 at the center.  
